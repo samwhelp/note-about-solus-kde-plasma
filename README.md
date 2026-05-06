@@ -27,7 +27,7 @@
 
 | 微調腳本 |
 | ------- |
-| [Solus Kde Plasma Config](https://github.com/samwhelp/solus-kde-plasma-adjustment/tree/main/prototype/main/kde-config) |
+| [Solus Kde Plasma Config](https://github.com/samwhelp/solus-kde-plasma-adjustment/tree/main/prototype/main/kde-config/locale/en_us/Main) |
 | [Tool Config](https://github.com/samwhelp/solus-adjustment/tree/main/prototype/main/tool-config/part) |
 
 
