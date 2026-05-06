@@ -17,6 +17,7 @@
 ## 主題
 
 * [微調腳本](#微調腳本)
+* [相關資源](#相關資源)
 * [相關筆記](#相關筆記)
 
 
@@ -28,6 +29,19 @@
 | ------- |
 | [Solus Kde Plasma Config](https://github.com/samwhelp/solus-kde-plasma-adjustment/tree/main/prototype/main/kde-config) |
 | [Tool Config](https://github.com/samwhelp/solus-adjustment/tree/main/prototype/main/tool-config/part) |
+
+
+
+
+## 相關資源
+
+| Kde Resource |
+| ------------ |
+| [kde-plasma-layout-templates](https://github.com/samwhelp/kde-plasma-layout-templates) |
+| [kde-plasma-look-and-feel](https://github.com/samwhelp/kde-plasma-look-and-feel) |
+| [kde-plasma-layout-switch](https://github.com/samwhelp/kde-plasma-layout-switch) |
+| [kde-plasma-style-switch](https://github.com/samwhelp/kde-plasma-style-switch) |
+| [kde-plasma-keybind-switch](https://github.com/samwhelp/kde-plasma-keybind-switch) |
 
 
 
